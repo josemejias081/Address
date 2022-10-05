@@ -16,7 +16,7 @@ body {
 }
 
 a{
-  color: #000000;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -59,7 +59,7 @@ ul {
 }
 
 .nav-main ul li a:hover {
-  border-bottom: 2px solid #000000;
+  border-top: 2px solid #ffffff;
 }
 
 .nav-main ul.nav-menu {
@@ -286,6 +286,7 @@ hr {
     height: 100%;
     padding: 30px;
     opacity: .9;
+    z-index: 2;
     transform: translatex(-400px);
     transition: transform .5s ease-in-out;
   }
