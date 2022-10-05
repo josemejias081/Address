@@ -59,7 +59,7 @@ ul {
 }
 
 .nav-main ul li a:hover {
-  border-top: 2px solid #ffffff;
+  border-bottom: 2px solid #000000;
 }
 
 .nav-main ul.nav-menu {
