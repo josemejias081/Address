@@ -276,6 +276,8 @@ hr {
   padding-bottom: 20px;
 }
 
+
+
 @media (max-width: 700px) {
 
   .menu-btn {
@@ -303,7 +305,7 @@ hr {
   .nav-main ul.nav-menu li {
     padding: 20px;
     font-size: 14px;
-    border-bottom: 1px solid #000;
+    border-bottom: 1px solid #fff;
   }
 
   .nav-main ul.nav-menu-right {
